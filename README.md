@@ -1,2 +1,2 @@
 # StrongPose
-## Project and code will be initialize soon..
+## Project and code will be availabale soon...
