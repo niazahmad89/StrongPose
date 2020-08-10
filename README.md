@@ -1,5 +1,7 @@
 # StrongPose
 ## Project and code will be availabale soon...
+
+## Output results.
 ![](output/pose1.jpg)
 ![](output/pose2.jpg)
 ![](output/pose4.jpg)
